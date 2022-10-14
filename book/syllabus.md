@@ -6,6 +6,8 @@ Por favor, lee detenidamente al comienzo de cada clase y revíselo tantas veces 
 
 Este curso tiene como objetivo enseñar **técnicas modernas de análisis de datos climáticos** para (geo-)científicos. En la mayoría de ejercicios usaremos **Geoscience Community Analysis Toolkit** `(GeoCAT) <https://geocat.ucar.edu/>` desarrollado por ingenieros de software del **National Center for Atmospheric Research (NCAR)**. Después de completar el curso, usted debe:
 
+_`Creative Commons Attribution 4.0 International License <https://creativecommons.org/licenses/by/4.0/>`_.
+
 - estar familiarizado con un lenguaje de programación moderno y de código abierto (Python) y su uso para aplicaciones de análisis de datos.
 - ser capaz de programar de forma estructurada, extensible y reproducible
 - ser capaz de buscar, comprender, instalar y aprovechar los paquetes y bibliotecas existentes disponibles en el rico ecosistema científico de Python
