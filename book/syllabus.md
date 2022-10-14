@@ -4,24 +4,24 @@ Por favor, lee detenidamente al comienzo de cada clase y revíselo tantas veces 
 
 ## ¿Qué aprenderemos?
 
-Este curso tiene como objetivo enseñar **técnicas modernas de análisis de datos climáticos** para (geo-)científicos. En la mayoría de ejercicios usaremos **Geoscience Community Analysis Toolkit [(GeoCAT)] (https://geocat.ucar.edu/)** desarrollado por ingenieros de software del **National Center for Atmospheric Research (NCAR)**. Después de completar el curso, usted debe:
+Este curso tiene como objetivo enseñar **técnicas modernas de análisis de datos climáticos** para (geo-)científicos. Los ejercicios serán desarrollados tulizando la herramienta **Geoscience Community Analysis Toolkit [GeoCAT](https://geocat.ucar.edu/)** en su mayoria, ambiente que fue desarrollado por la **National Center for Atmospheric Research (NCAR)**. Al concluir este curso, usted debe:
 
-- estar familiarizado con un lenguaje de programación moderno y de código abierto (Python) y su uso para aplicaciones de análisis de datos.
-- ser capaz de programar de forma estructurada, extensible y reproducible
-- ser capaz de buscar, comprender, instalar y aprovechar los paquetes y bibliotecas existentes disponibles en el rico ecosistema científico de Python
-- ser capaz de descargar datos proventinves de modelos numéricos globales y reanálisis (GSF, ERA5)
-- ser capaz de analizar y graficar datos climáticos usando los recursos disponibles de python.
-- ser capaz de 
-- descargar, procesar y visualizar datos satelitales (GOES).
-
-```
-Nuestro objetivo aquí es brindarle un **conocimiento básico sólido sobre técnicas modernas de análisis de datos climáticos**, para hacer de ti un **aprendiz independiente**, capaz de ampliar y profundizar sus habilidades en el análisis de datos.
+- Estar familiarizado con un lenguaje de programación moderno y de código abierto (Python).
+- Conocer la forma de uso para análisis de datos.
+- Tener la capacidad de programar de forma estructurada, extensible y reproducible.
+- Desarrollar la capacidad de buscar, comprender, instalar y aprovechar la gran variedad de paquetes y bibliotecas disponibles en el rico ecosistema científico de Python.
+- Ser capaz de descargar y procesar datos proventinves de modelos numéricos globales y de reanálisis (GSF, ERA5)
+- Ser capaz de analizar y graficar datos climáticos usando los recursos disponibles de python.
+- Ser capaz de descargar, procesar y visualizar datos satelitales (GOES).
 
 ```
+Por lo tanto, nuestro objetivo en este curso es brindarle un **conocimiento básico sólido sobre técnicas modernas de análisis de datos climáticos**, para hacer de ti un **aprendiz independiente**, capaz de ampliar y profundizar sus habilidades en el análisis de datos.
 
-## Plan de estudios interdiario
+```
 
-El curso tiene una duración de 8 días divididos en 4 módulos, con 3h lectivas cada día. Esto contempla 24h entre teoría y práctica.
+## Plan de estudios
+
+El curso tiene una duración de 8 días de frecuencia interdiaria,  con 3h lectivas cada día. Esto contempla 24h entre teoría y práctica, el cual será dividido en 4 módulos.
 
 - Día 1 - Conceptos básicos de Python
     - Bienvenido! Motivación & Syllabus
