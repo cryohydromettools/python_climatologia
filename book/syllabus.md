@@ -4,7 +4,9 @@ Por favor, lee detenidamente al comienzo de cada clase y revíselo tantas veces 
 
 ## ¿Qué aprenderemos?
 
-Este curso tiene como objetivo enseñar **técnicas modernas de análisis de datos climáticos** para (geo-)científicos. Los ejercicios serán desarrollados utilizando la herramienta **Geoscience Community Analysis Toolkit [GeoCAT](https://geocat.ucar.edu/)**, en su mayoria. Este ambiente que fue desarrollado por la **National Center for Atmospheric Research (NCAR)**.
+
+Este curso tiene como objetivo enseñar **técnicas modernas de análisis y visualización de datos climáticos** para (geo-)científicos. Los ejercicios serán desarrollados ulizando la herramienta **Geoscience Community Analysis Toolkit ([GeoCAT](https://geocat.ucar.edu/))** en su mayoria, ambiente que fue desarrollado por la **National Center for Atmospheric Research (NCAR)**.
+
 
 Al concluir este curso, usted debe:
 
@@ -16,14 +18,23 @@ Al concluir este curso, usted debe:
 - Ser capaz de analizar y graficar datos climáticos usando los recursos disponibles de python.
 - Ser capaz de descargar, procesar y visualizar datos satelitales (GOES).
 
-```
-Por lo tanto, nuestro objetivo en este curso es brindarle un **conocimiento básico sólido sobre técnicas modernas de análisis de datos climáticos**, para hacer de ti un **aprendiz independiente**, capaz de ampliar y profundizar sus habilidades en el análisis de datos.
+```{Importante}:
 
+Por lo tanto, nuestro objetivo en este curso es brindarle un **conocimiento básico sólido sobre técnicas modernas de análisis de datos climáticos**, para hacer de ti un **aprendiz independiente**, capaz de ampliar y profundizar sus habilidades en el análisis de datos.
 ```
 
 ## Plan de estudios
 
-El curso tiene una duración de 8 días de frecuencia interdiaria,  con 3h lectivas cada día. Esto contempla 24h entre teoría y práctica, el cual será dividido en 4 módulos.
+El curso esta dividido en 4 módulos.
+
+```{Módulos}:
+
+- Conceptos básicos de Python
+- Procesamiento de datos tabular
+- Procesamiento de datos de modelos numéricos y reanálisis
+- Procesamiento de datos satelitales
+```
+Los módulos serán desarrollados en 8 días de frecuencia interdiaria, con 3h lectivas cada día. Esto contempla 24h entre teoría y práctica.
 
 - Día 1 - Conceptos básicos de Python
     - Bienvenido! Motivación & Syllabus
