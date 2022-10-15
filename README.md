@@ -1,6 +1,6 @@
 # Python aplicado a la climatología
 Este es un curso de python aplicado al análisis y visualización de datos climáticos.
-- Podemos iniciar este trayecto revisando el silabus, clicando en [este boton](./book/syllabus.md)
+- Podemos iniciar este trayecto revisando el silabus, clickando en [este boton](./book/syllabus.md)
 
 ## Autores
 
