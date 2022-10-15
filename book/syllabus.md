@@ -94,3 +94,7 @@ El certificado digital de la capacitación se brindará a aquellos participantes
 
 - **Asistir como mínimo al 88% de las sesiones** de clase.
 - Aprobar el curso con un puntaje **mínimo de once (11)**.
+
+
+
+## Ir para el [indice del material](./indice.md)
