@@ -4,7 +4,11 @@ Por favor, lee detenidamente al comienzo de cada clase y revíselo tantas veces 
 
 ## ¿Qué aprenderemos?
 
+<<<<<<< HEAD
 Este curso tiene como objetivo enseñar **técnicas modernas de análisis y visualización de datos climáticos** para (geo-)científicos. Los ejercicios serán desarrollados ulizando la herramienta **Geoscience Community Analysis Toolkit ([GeoCAT](https://geocat.ucar.edu/))** en su mayoria, ambiente que fue desarrollado por la **National Center for Atmospheric Research (NCAR)**.
+=======
+Este curso tiene como objetivo enseñar **técnicas modernas de análisis de datos climáticos** para (geo-)científicos. Los ejercicios serán desarrollados utilizando la herramienta **Geoscience Community Analysis Toolkit [GeoCAT](https://geocat.ucar.edu/)**, en su mayoria. Este ambiente que fue desarrollado por la **National Center for Atmospheric Research (NCAR)**.
+>>>>>>> 518a86e7a43b4778d02cc499c06993d55e9c1d9a
 
 Al concluir este curso, usted debe:
 
