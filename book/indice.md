@@ -8,7 +8,7 @@
 
 - [Detalles en windows](./dia1/01a.Detalles_windows.md)
 
-- [Udo de del Ambiente de desarrollo integrado (IDE)](./dia1/02.Uso_IDE.md)
+- [Uso del Ambiente de Desarrollo Integrado (IDE)](./dia1/02.Uso_IDE.md)
 
 - [Instalacion del ambiente virtual](./dia1/03.geocat.md)
 
