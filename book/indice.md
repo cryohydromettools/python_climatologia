@@ -2,6 +2,8 @@
 
 1. Temas relacionados al día 1:
 
+- Conceptos básicos de python(./dia1/00.Conceptos_python.md)
+
 - [Instalación de Python](./dia1/01.Instalacion_python.md)
 
 - [Instalacion del ambiente virtual](./dia1/02.geocat.md)
