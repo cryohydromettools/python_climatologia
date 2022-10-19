@@ -70,7 +70,7 @@ Los módulos serán desarrollados en 8 días de frecuencia interdiaria, con 3h l
 
 - Día 6 - Procesamiento de datos de modelos numéricos y reanálisis
     - Generación de gráficos temporales y perfiles verticales
-    - Generación de gráficos sobre mapas geográficos (líneas, áreas, barbas, streamlines, quives, etc.)
+    - Generación de gráficos sobre mapas geográficos (líneas, áreas, barbas, streamlines, quiver, etc.)
 
 - Día 7 - Procesamiento de datos de modelos numéricos y reanálisis
     - Creación de un archivo netcdf
