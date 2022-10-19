@@ -15,3 +15,15 @@
 - [Instalación de librerías](./dia1/04.Instalacion_bibliotecas.md)
 
 2. Temas relacionados al día 2:
+
+- [Operaciones y comandos básicos](./dia2/00.Operaciones_comandos_basicos.ipynb)
+
+- [Operadores lógicos](./dia2/01.Operadores_logicos.ipynb)
+
+- [Creación de funciones](./dia2/02.Creacion_funciones.ipynb)
+
+- [Paradigmas de programación](./dia2/03.Paradigmas_programacion.md)
+
+- [Elaboración de scripts](./dia2/04.Elaboracion_scripts.ipynb)
+
+3. Temas relacionados al día 3:

@@ -44,13 +44,15 @@ Los módulos serán desarrollados en 8 días de frecuencia interdiaria, con 3h l
     - Uso de IDE (Integrated Development Environment)
     - Creación de ambientes virtuales
     - Instalación de librerías (usando conda y PIP)
+    
 - Día 2 - Conceptos básicos de Python 
     - Operaciones y comandos básicos (+,-,*,/, strings, print, etc.)
     - Operadores lógicos (if, elif, else, while, for, etc.)
     - Creación de funciones
-    - Elaboración de scripts
     - Paradigmas de programación (estructurada)
     - Paradigmas de programación (orientada a objetos)
+    - Elaboración de scripts
+
 - Día 3 - Procesamiento de datos tabular
     - Descarga de archivos ascii
     - Procesamiento de archivos ascii (txt, csv, xlsx, etc) usando pandas (dataframes)
