@@ -27,3 +27,13 @@
 - [Elaboración de scripts](./dia2/04.Elaboracion_scripts.ipynb)
 
 3. Temas relacionados al día 3:
+
+- [Descarga de archivos ascii](./dia2/00.Descarga_datos_clima.ipynb)
+
+- [Procesamiento de archivos ascii](./dia2/01.Lectura_datos_clima.ipynb)
+
+- [Procesamiento de series de tiempo](./dia2/00.Operaciones_comandos_basicos.ipynb)
+
+- [Cálculos estadísticos](./dia2/02.Procesamiento_series_tiempo.ipynb)
+
+4. Temas relacionados al día 4:
