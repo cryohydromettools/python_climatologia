@@ -41,3 +41,41 @@
 - [Generación de gráficos temporales](./dia4/00.Generacion_graficos_temporales.ipynb)
 
 - [Guardado de información como dataframe](./dia4/00.Generacion_graficos_temporales.ipynb)
+
+5. Temas relacionados al día 5:
+
+- [Descarga de archivos del GFS](./dia5/01.a.descarga.ipynb)
+
+- [Procesamiento de datos del modelo GFS](./dia5/01.b.GFS_timeSeries.ipynb)
+
+- [Procesamiento de series de tiempo GFS](./dia5/01.b.GFS_timeSeries.ipynb)
+
+- [Generación de gráficos sobre mapas geográficos](./dia5/01.c.GFS_campos.ipynb)
+
+- [Creación de un archivo netcdf](./dia5/01.b.GFS_timeSeries.ipynb)
+
+6. Temas relacionados al día 6:
+
+- [Descarga de archivos del ERA5](./dia6/00.Descarga_ERA5.ipynb)
+
+- [Procesamiento de datos del modelo ERA5](./dia6/01.Lectura_visualizacion_ERA5.ipynb)
+
+
+7. Temas relacionados al día 7:
+
+- [Procesamiento de series de tiempo ERA5](./dia7/00.ERA5_timeseries.ipynb)
+
+- [Generación de gráficos sobre mapas geográficos ERA5](./dia7/01.ERA5_estacional.ipynb)
+
+
+8. Temas relacionados al día 8:
+
+- [Descarga de archivos del GOES](./dia8/00.Descarga_GOES-R.ipynb)
+
+- [Procesamiento de datos del GOES-16](./dia8/01.Importando_parametros_GOES-R.ipynb)
+
+- [Generación de gráficos del GLM](./dia8/00.Descarga_GOES-R.ipynb)
+
+- [Descarga de archivos del GOES](./dia8/02.Visualizar_area_especifica_GOES-R.ipynb)
+
+- [Guardado de información como netcdf](./dia8/03.Reproyectar_GOES-R.ipynb)
